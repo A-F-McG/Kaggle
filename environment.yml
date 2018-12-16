@@ -4,3 +4,4 @@ dependencies:
   - appmode
   - numpy
   - ipywidgets
+  - pandas
