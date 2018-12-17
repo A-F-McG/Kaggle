@@ -5,4 +5,5 @@ dependencies:
   - numpy
   - ipywidgets
   - pandas
-  - sklearn
+  - scikit-learn
+  - scipy
