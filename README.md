@@ -2,7 +2,8 @@
 
 ![alt text](suicideimage.jpg "Suicide image")
 
-To view the notebooks live, please click the binder button below:
+To view the notebooks live, please click the binder button below
+(NB by default, it opens in the current tab unless otherwise specified and it may take a couple of minutes to load):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/A-F-McG/Predicting-Suicide-Rates-with-Random-Forest-Regressor/master)
 
