@@ -10,6 +10,10 @@ After that, to use the app in which the trained random forest regressor model pr
 
 ![alt text](imstructionsPhoto.png "Instructions to get to app mode")
 
+App preview:
+
+![alt text](appScreenshot.png "Instructions to get to app mode")
+
 To view and run the notebook which contains the data wrangling, exploration and training, please navigate to the file called suicideRates.ipynb
 
 ![alt text](graph.png "Graph of countries against suicide rate")
